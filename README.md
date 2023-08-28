@@ -9,6 +9,7 @@ Projeto desenvolvido como exercício prático. A ideia seria de um blog com inte
 - Estilização da página
 - Navegação de rotas pelo ID do post
 - Página do post
+- Integração com Banco de dados via Supabase
 - Formulário de adição de post
 - Botão de remoção de post
 - Código semântico para SEO
@@ -23,7 +24,7 @@ Projeto desenvolvido como exercício prático. A ideia seria de um blog com inte
 - Axios
 - Git/GitHub
 
-[Clique aqui para acessar o projeto](https://axlbr.github.io/next-blogg/)
+[Clique aqui para acessar o projeto](https://next-blogg-theta.vercel.app/)
 
 # Contato
 gabrieltoby@gmail.com
